@@ -1,3 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
+title: Devendra Singh
+logo: /assets/img/profile_pic.png
+description: AWS Certified Machine Learning expert with 13 years of experience, leading and mentoring data scientists, data and machine learning engineers. 
+Proven track record of successfully deploying machine learning models into production.
+theme: jekyll-theme-minimal
