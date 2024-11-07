@@ -1,5 +1,5 @@
-# More details related to the recent Projects:
-
+# Recent projects:
+Below is a list of the projects that I worked on until recently as part of deliveries done in my current organization i.e., Natwest Group.
 
 
 ## Compliance Elements Identifier
