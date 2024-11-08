@@ -1,4 +1,86 @@
+# Certifications
 ![AWS Certification](assets/img/aws-certified-machine-learning-specialty.png) 
+
+**MLS-C01 \- AWS Certified Machine Learning \- Specialty**
+- An advanced-level certification validating a candidate's ability to design, implement, deploy, and maintain machine learning solutions on AWS using a wide array of available services.
+
+**Deep Learning NanoDegree (Udacity) with TensorFlow and Keras**
+- DNN, CNN, RNN, LSTM, GRU, GAN, DCGAN, Deep Q-Learning (RL) 
+- Projects developed:
+  - Generated Synthetic faces using Deep Convolutional Generative Adversarial Network.  
+  - Trained an Autonomous Quadcopter using Deep Q Learning.
+
+**Machine Learning Stanford University (Coursera) using MATLAB**
+- Linear Regression, Logistic Regression, Artificial Neural Network. Support Vector Machine, Unsupervised Learning and Anomaly Detection. Movie Recommender System.
+
+# Open-Source Contributions
+- Developed an [Hierarchical Semantic Chunking Algorithm](https://github.com/bankawat1/hierarchical_semantic_chunking/tree/main) for smaller context window problem with LLMs.
+
+# Skills
+**Machine Learning Classical Machine Learning** 
+  - Linear Regression, Logistic Regression, Support Vector Machines, Unsupervised Learning, Anomaly Detection 
+**Deep Learning** 
+  - DNN, CNN, RNN, LSTM, GRU, GAN, DCGAN 
+**Reinforcement Learning** 
+  - (Deep Q-Learning, Q-Learning, DQN, Policy Gradient, Actor-Critic) 
+**NLP:** 
+  - NLP, NLI, NLU, NLG, NLTK, spaCy, BERT, GPT. 
+**Tools and Libraries:** 
+  - TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, LightGBM. 
+**Cloud Computing AWS Certified Machine Learning \- Specialty,** 
+  - implied knowledge of other AWS services like S3, EC2, EMR, Sagemaker, AWS Glue, AWS Athena, etc.
+**Software Engineering Languages:** 
+  - Python, C\#.NET,  Java 
+**Databases:** 
+  - SQLServer,  MongoDB 
+**Other Tools:** 
+  - Git, Docker, REST  APIs  
+**Data Analysis and Visualization Tools:** 
+  - Pandas, NumPy, SQL, Matplotlib, Seaborn, Plotly 
+**Techniques:** 
+  - Hypothesis Testing, Bayesian Inference, Regression Analysis  
+**Big Data Technologies:** 
+  - Hadoop, Spark, Kafka  
+**Domain Expertise Finance/Banking:** 
+  - Experience in core banking, FX prime brokerage, and general banking domain knowledge.
+
+# PROFESSIONAL EXPERIENCE
+**Senior Data Scientist Natwest Group, Gurgaon, India  Dec 2022**
+- Present Having exposure to Webchats and Telephony transcriptions data set. Designed and implemented an LLM benchmarking utility in the bank domain. 
+- Built a Semantic Chunking Algorithm for smaller context window problem with LLMs. Built LLM Guardrails for capturing confabulation/Hallucination in LLM generated summaries. 
+- Productionized LLM AutoSumm using OpenAI’s GPT3.5v0125 to support Automatic Summarization; being used by 300+ users of the Coutts Bank.
+- Executing Alpha development for Compliance and Financial Health Check Use cases. 
+- Provinding supporting for Auto-Summarization MLOps & post-live challenges. 
+- Supporting Machine Learning Engineers to build, deploy, and monitor sagemaker pipelines for Coutts Risk Use case.
+
+**Data Scientist Natwest Group, Gurgaon, India  May 2019 – Dec 2022**
+ - Trained & deployed 17 hierarchical classification models into production simultaneously, saving $200,000+. \~20x Perforamance gain \- by deploying SageMaker Tensorflow Serving container. 
+ - Developed a PII Masking Utility currently utilized by 17+ teams. 
+ - Automatic summarization \- saving 1600+ hours per Agent per month. 
+ - Developed a Synthetic Conversations Generation Utility to create bank-wide benchmarking datasets. 
+ - Guiding and supporting ML Engineers. Troubleshooting post live mode/data drift issues. Critically evaluating Model/Data Monitoring processes for other teams.
+
+ **Software Engineer – Machine Learning  Natwest Group, India Oct 2017 – May 2019** 
+ _(Secondments)_
+ - Troubleshooting Model Training and deployment issues. Preparing model release and model maintenance documents. 
+ - Participating and contributing to model review processes. 
+ - Participating in Design and Code reviews. Delivering Machine Learning Trainings and Demos to businesses. Researching and presenting then latest literature to Senior Management.
+
+ **Software Designer Natwest Group, Gurgaon, India  May 2016 – May 2019**
+ - Built a highly parallelized multi-threaded application for FX Prime Brokerage. 
+ 
+ **Senior Software Engineer NIIT Technologies Ltd, Gurgaon, India   Sep 2015 – May 2016**
+ - Built Restful services & UI framework  \- Insurance domain. 
+ 
+ **Senior Software Engineer Fidelity Information Services, Gurgaon, India Aug 2013 – Aug 2015**
+ - Supported and enhanced a Core Banking Product.  
+ 
+ **Software Engineer AONHewitt, Gurgaon, India  Aug 2011 – Sep 2013**
+ - Overhauled UI framework using PRISM, SQL Server, Visual Studio and TFS 
+ 
+ # EDUCATION. 
+ - Master of Science in Information Technology Sep 2009- Sept 2010 Edinburgh, United Kingdom 
+ - Bachelor of Engineering in Computer Science Jun 2005- Jun 2009 Bengaluru, India
 
 # Recent projects:
 Below is a list of the projects that I worked on until recently as part of deliveries done in my current organization i.e., Natwest Group.
