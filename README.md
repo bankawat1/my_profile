@@ -59,8 +59,7 @@
   - Experience in core banking, FX prime brokerage, and general banking domain knowledge.
 
 # Professional Experience
-**Senior Data Scientist, Natwest Group**
-_Gurgaon, India,  Dec 2022 \- until present day_
+**Senior Data Scientist, Natwest Group**, _Gurgaon, India,  Dec 2022 \- until present day_
 - Having exposure to Webchats and Telephony transcriptions data set. Designed and implemented an LLM benchmarking utility in the bank domain.
 - Built a Semantic Chunking Algorithm for smaller context window problem with LLMs. Built LLM Guardrails for capturing confabulation/Hallucination in LLM generated summaries. 
 - Productionized LLM AutoSumm using OpenAI’s GPT3.5v0125 to support Automatic Summarization; being used by 300+ users of the Coutts Bank.
@@ -68,43 +67,35 @@ _Gurgaon, India,  Dec 2022 \- until present day_
 - Supporting Auto-Summarization MLOps & post-live challenges.
 - Supporting Machine Learning Engineers to build, deploy, and monitor sagemaker pipelines for Coutts Risk Use case.
 
-**Data Scientist, Natwest Group**
-_Gurgaon, India,  May 2019 – Dec 2022_
+**Data Scientist, Natwest Group**, _Gurgaon, India,  May 2019 – Dec 2022_
 - Trained & deployed 17 hierarchical classification models into production simultaneously, saving $200,000+. \~20x Perforamance gain \- by deploying SageMaker Tensorflow Serving container. 
 - Developed a PII Masking Utility currently utilized by 17+ teams. 
 - Automatic summarization \- saving 1600+ hours per Agent per month. 
 - Developed a Synthetic Conversations Generation Utility to create bank-wide benchmarking datasets. 
 - Guiding and supporting ML Engineers. Troubleshooting post-live mode/data drift issues. Critically evaluating Model/Data Monitoring processes for other teams.
 
-**Software Engineer – Machine Learning, Natwest Group**
- 
-_Gurgaon, India, Oct 2017 – May 2019_
+**Software Engineer – Machine Learning, Natwest Group**, _Gurgaon, India, Oct 2017 – May 2019_
 _(Secondments)_
 - Troubleshooting Model Training and deployment issues. Preparing model release and model maintenance documents. 
 - Participating and contributing to model review processes. 
 - Participating in Design and Code reviews. Delivering Machine Learning training and Demos to businesses.
 - Researching and presenting the latest literature to Senior Management.
 
-**Software Designer, Natwest Group**
-_Gurgaon, India,  May 2016 – May 2019_
+**Software Designer, Natwest Group**, _Gurgaon, India,  May 2016 – May 2019_
 - Built a highly parallelized multi-threaded application for FX Prime Brokerage. 
  
-**Senior Software Engineer, NIIT Technologies Ltd** 
-_Gurgaon, India,   Sep 2015 – May 2016_
+**Senior Software Engineer, NIIT Technologies Ltd**, _Gurgaon, India,   Sep 2015 – May 2016_
 - Built Restful services & UI framework  \- Insurance domain. 
  
-**Senior Software Engineer, Fidelity Information Services**
-_Gurgaon, India, Aug 2013 – Aug 2015_
+**Senior Software Engineer, Fidelity Information Services**, _Gurgaon, India, Aug 2013 – Aug 2015_
 - Supported and enhanced a Core Banking Product.  
  
- **Software Engineer, AONHewitt**
+**Software Engineer, AONHewitt**, _Gurgaon, India,  Aug 2011 – Sep 2013_
+- Overhauled UI framework using PRISM, SQL Server, Visual Studio and TFS.
  
- _Gurgaon, India,  Aug 2011 – Sep 2013_
- - Overhauled UI framework using PRISM, SQL Server, Visual Studio and TFS.
- 
- # Education 
- - Master of Science in Information Technology, Sep 2009 - Sept 2010, Edinburgh, United Kingdom 
- - Bachelor of Engineering in Computer Science, Jun 2005 - Jun 2009, Bengaluru, India
+# Education 
+- Master of Science in Information Technology, Sep 2009 - Sept 2010, Edinburgh, United Kingdom 
+- Bachelor of Engineering in Computer Science, Jun 2005 - Jun 2009, Bengaluru, India
 
 # Recent projects:
 Below is a list of the projects that I worked on until recently as part of deliveries done in my current organization i.e., Natwest Group.
