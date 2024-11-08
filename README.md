@@ -18,20 +18,16 @@
 
 # Skills
 ### Machine Learning
-**Classical Machine Learning** 
-  - Linear Regression, Logistic Regression, Support Vector Machines, Unsupervised Learning, Anomaly Detection
-
-**Deep Learning** 
-  - DNN, CNN, RNN, LSTM, GRU, GAN, DCGAN
- 
-**Reinforcement Learning** 
-  - DQ-Learning, Q-Learning, DQN, Policy Gradient, Actor-Critic
-
-**NLP:** 
-  - NLP, NLI, NLU, NLG, NLTK, spaCy, BERT, GPT.
-
-**Tools and Libraries:** 
-  - TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, LightGBM
+  - **Classical Machine Learning**
+    - Linear Regression, Logistic Regression, Support Vector Machines, Unsupervised Learning, Anomaly Detection
+  - **Deep Learning**
+    - DNN, CNN, RNN, LSTM, GRU, GAN, DCGAN
+  - **Reinforcement Learning** 
+    - DQ-Learning, Q-Learning, DQN, Policy Gradient, Actor-Critic
+  - **NLP:** 
+    - NLP, NLI, NLU, NLG, NLTK, spaCy, BERT, GPT.
+  - **Tools and Libraries:** 
+    - TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, LightGBM
  
 **Cloud Computing** 
   - AWS Certified Machine Learning \- Specialty
