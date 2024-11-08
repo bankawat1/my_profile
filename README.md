@@ -22,17 +22,17 @@
 **Deep Learning** 
   - DNN, CNN, RNN, LSTM, GRU, GAN, DCGAN 
 **Reinforcement Learning** 
-  - (Deep Q-Learning, Q-Learning, DQN, Policy Gradient, Actor-Critic) 
+  - DQ-Learning, Q-Learning, DQN, Policy Gradient, Actor-Critic
 **NLP:** 
   - NLP, NLI, NLU, NLG, NLTK, spaCy, BERT, GPT. 
 **Tools and Libraries:** 
   - TensorFlow, Keras, PyTorch, scikit-learn, XGBoost, LightGBM. 
 **Cloud Computing AWS Certified Machine Learning \- Specialty,** 
-  - implied knowledge of other AWS services like S3, EC2, EMR, Sagemaker, AWS Glue, AWS Athena, etc.
+  - Implied knowledge of other AWS services like S3, EC2, EMR, Sagemaker, AWS Glue, AWS Athena, etc.
 **Software Engineering Languages:** 
   - Python, C\#.NET,  Java 
 **Databases:** 
-  - SQLServer,  MongoDB 
+  - SQLServer, MongoDB 
 **Other Tools:** 
   - Git, Docker, REST  APIs  
 **Data Analysis and Visualization Tools:** 
