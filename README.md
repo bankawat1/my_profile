@@ -1,5 +1,5 @@
 # Certifications
-![AWS Certification](assets/img/aws-certified-machine-learning-specialty_small.png) 
+![AWS Certification](assets/img/aws-certified-machine-learning-specialty_medium.png) 
 
 **MLS-C01 \- AWS Certified Machine Learning \- Specialty**
 - An advanced-level certification validating a candidate's ability to design, implement, deploy, and maintain machine learning solutions on AWS using a wide array of available services.
