@@ -1,4 +1,4 @@
-[![][image1]](https://www.credly.com/badges/bacf5478-7fce-4132-b40b-8784e278194e/public_url) 
+![AWS Certification](assets/img/aws-certified-machine-learning-specialty.png) 
 
 # Recent projects:
 Below is a list of the projects that I worked on until recently as part of deliveries done in my current organization i.e., Natwest Group.
